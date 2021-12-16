@@ -3,9 +3,6 @@
 This application parses IGES Files and Uploads them to the PEM Database for use with the PEM Robot. 
 Previous version only exported .csv. This functionality is deprecated but still available for reference.
 
-# Files
-This Folder contains the example .iges files and generated .csv
-
 ## EXAMPLE
 
 ![image info](./Images/Example.png)
